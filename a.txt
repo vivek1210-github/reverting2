@@ -16,3 +16,5 @@ image3
 image4
 image5
 image6
+add login form
+add register
